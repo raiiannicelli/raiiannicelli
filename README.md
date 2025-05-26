@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/raiiannicelli">
-    <img src="https://img.shields.io/github/followers/seuusuario?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/seuusuario?label=Followers&style=social" alt="GitHub">
   </a>
   <a href="mailto:raimorato@alunos.utfpr.edu.br">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
