@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DB1F2&height=200&section=header&text=Olá,%20eu%20sou%20Rai%20Iannicelli%Morato!&fontSize=35&fontColor=ffffff" alt="banner" />
+</p>
 
-<!--
-**raiiannicelli/raiiannicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/raiiannicelli">
+    <img src="https://img.shields.io/github/followers/seuusuario?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="mailto:raimorato@alunos.utfpr.edu.br">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/raiiannicelli">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas práticas, microsserviços e soluções escaláveis. No tempo livre, estudo arquitetura de software e automações com DevOps.
+
+-  Tecnologias favoritas: Java + Spring Boot + Docker
+-  Aprendendo: Arquitetura hexagonal e testes automatizados
+-  Interesso-me por: CI/CD, Clean Code e APIs REST
+
+---
+
+##  Tecnologias & Ferramentas
+
+###  Backend
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+###  Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙ DevOps
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+
+---
+
+##  Estatísticas GitHub
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=raiiannicelli&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiiannicelli&layout=compact&theme=tokyonight" />
+</p>
