@@ -19,11 +19,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas práticas, microsserviços e soluções escaláveis. No tempo livre, estudo arquitetura de software e automações com DevOps.
+Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas práticas, microsserviços e soluções escaláveis. No tempo livre de estudos, aprendo sobre arquitetura de software e automações com DevOps.
 
--  Tecnologias favoritas: Java + Spring Boot + Docker
--  Aprendendo: Arquitetura hexagonal e testes automatizados
--  Interesso-me por: CI/CD, Clean Code e APIs REST
+-  Tecnologias favoritas: Java + Spring Boot;
+-  Ambiente: docker + maven + github;
+-  Aprendendo: Arquitetura hexagonal e testes automatizados;
+-  Me interesso por: CI/CD, Clean Code e APIs REST.
 
 ---
 
@@ -44,7 +45,6 @@ Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas pr
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
