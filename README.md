@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DB1F2&height=200&section=header&text=eu%20sou%20o%20Raí%20esse%20é%20meu%20Github%20%!&fontSize=35&fontColor=ffffff" alt="banner" />
-</p>
+```
+Olá! Eu sou o Raí...!
+```
 
 <p align="center">
   <a href="https://github.com/raiiannicelli">
