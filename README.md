@@ -4,9 +4,6 @@ Olá! Eu sou o Raí...!
 ```
 
 <p align="center">
-  <a href="https://github.com/raiiannicelli">
-    <img src="https://img.shields.io/github/followers/seuusuario?label=Followers&style=social" alt="GitHub">
-  </a>
   <a href="mailto:raimorato@alunos.utfpr.edu.br">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -42,7 +39,7 @@ Então,com isso, meus serviços de Java + Spring Boot, geralmente, são aplicado
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-###  Frontend
+###  Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
