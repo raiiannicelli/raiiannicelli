@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DB1F2&height=200&section=header&text=eu%20sou%20o%20Raí%20esse%20é%20meu%20github%20%!&fontSize=35&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0DB1F2&height=200&section=header&text=eu%20sou%20o%20Raí%20esse%20é%20meu%20Github%20%!&fontSize=35&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">
@@ -16,20 +16,19 @@
 </p>
 
 ---
-
+##
+### Tecnologias & Ferramentas
 ###  Backend
 
 Desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas práticas, microsserviços e soluções escaláveis.
-Isso envolve a arquitetura de softwares, com modelos de serviços (SaaS, Paas, Iaas...), implementação (pip, node.js...) e controle de acesso (principios CID, firewalls/WAF, certificado web,) independentes... 
+Isso envolve a **arquitetura de softwares**, com **modelos de serviços** (SaaS, Paas, Iaas...), **implementação** (pip, node.js...) e **controle de acesso** (principios CID, firewalls/WAF, certificado web,) independentes... 
+
 Então,com isso, meus serviços de Java + Spring Boot, geralmente, são aplicados em arquiteturas de camadas MVC, cliente-servidor ou os microserviços, com deploy Docker + CI/CD.
 
 -  Tecnologias favoritas: Java + Spring Boot;
 -  Ambiente: docker + node.js + github;
 -  Aprendendo: Arquitetura hexagonal e testes automatizados;
 -  Me interesso por: CI/CD, Clean Code e APIs REST.
-
-
-##  Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -46,7 +45,12 @@ Então,com isso, meus serviços de Java + Spring Boot, geralmente, são aplicado
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-##  Sobre Mim
+##
+###  Sobre Mim
+Eu sou o Raí I. Morato e estou graduando em Engenharia de Software pela UTFPR (Universidade Tecnologica Federal do Paraná).
+Nesse processo, aprendi os conceitos básicos da programação, banco de dados, segurança da informação e arquitetura de software... Tudo envolvendo os processos de produção de software, com realização de Sprints em equipe: Product Owner, Scrum Master e desenvolvedores; definidos em Kanban e metas OKRs.
+
+Fora de sala de ensino, pratiquei alguns projetos de extensão e monitoria para ensino... como na organização do Hackaton Hackabee 5.0, organizado pela UTFPR, mini oficina de capacitação informática básica 3° idade, monitoria particular na máteria POO (Programação Orientada a Objetos) e acompanhamento de aluno PcD dentro da instituição. 
 
 No tempo livre de estudos, gosto de distrações práticas do dia a dia, coisas como correr, horas aleatorias de podcasts enquanto sigo receitas de novas refeições na cozinha ou filmes interessantes sobre temas entusiasmados e de lógica fora do comum, como nos de ficção, ciência ou ação. 
 
