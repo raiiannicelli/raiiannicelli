@@ -14,24 +14,30 @@ Olá! Eu sou o Raí...!
 
 ---
 ##
-### Tecnologias & Ferramentas
 ###  Backend
 
-Sou um desenvolvedor focado em **Backend Java com Spring Boot**, apaixonado por boas práticas, microsserviços e soluções escaláveis!!! Isso envolve a **arquitetura de softwares**, com **modelos de serviços** (SaaS, Paas, Iaas...), **implementação** (pip, node.js...) e **controle de acesso** (principios CID, firewalls/WAF, certificado web,) independentes... 
+  Sou um desenvolvedor de softwares! Focado em **Backend**, apaixonado por boas práticas, microsserviços e soluções escaláveis!!! Isso envolve o **modelos de serviço** (SaaS, PaaS...), **arquitetura de software** (Padrões de projeto, modulação, coesão e acoplamento), **controle de acesso** (principios CID, firewalls/WAF, certificado SSL web...), **linguagem de programação** (C e Java (Meu caso)) +  **framework**(Spring boot) + **banco de dados**(Relacional e não relacional) e o **gerênciador de pacotes** (pip, maven...) independentes. No final, completamente unidos! 
+  
+  Nesse processo, aprendi e aprendo, os conceitos básicos da programação, banco de dados, segurança da informação e arquitetura de software... Além do DevOps para boa condução do projeto e deploy do pipeline com eficiência e, sem erros de fallback ou organização das pastas e falhas de acoplamento. Tudo envolvendo os processos de produção do software, com realização de Sprints em equipe: Product Owner, Scrum Master e desenvolvedores, definidos em Kanban e metas OKRs, definidos em reuniões e documentações dos requisitos e prototipos.
+  
+  Então,com isso, meus projetos, geralmente, são aplicados em arquiteturas de camadas MVC ou o microserviço, com deploy container docker e APIs do tipo restFull web.
 
-Então,com isso, meus projetos de Java + Spring Boot, geralmente, são aplicados em arquiteturas de camadas MVC, cliente-servidor ou os microserviços, em sistema de nuvem seguro, com deploy Docker servidor e APIs do tipo restFull web.
+### Ferramentas ambiente 
+-  Linguagem: Java;
+-  Framework: Spring boot;
+-  Banco de dados: postgreSql (MySql relacional);
+-  Ambiente: docker + maven + github;
 
--  Tecnologias favoritas: Java + Spring Boot;
--  Ambiente: docker + node.js + github;
--  Aprendendo: Arquitetura hexagonal e testes automatizados;
--  Me interesso por: CI/CD, Clean Code e APIs REST.
+### Ferramentas de IA em desenvolvimento
+- NoCode automação: N8N;
+- NoCode imagem: veo3;
+- NoCode Video: Sora2;
+- NoCode Avatar+Voz: ElevenLabs;
 
 ##
-### Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙ DevOps
 
@@ -43,14 +49,18 @@ Então,com isso, meus projetos de Java + Spring Boot, geralmente, são aplicados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### NoCode IA
+
+![veo3](https://img.shields.io/badge/veo3-ready-to-use-blue?style=for-the-badge&logo=veo3&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-AI-voice-purple?style=for-the-badge&logo=ElevenLabs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-automation-agent-orange?style=for-the-badge&logo=n8n&logoColor=white)
 
 ##
-
 ###  Sobre Mim
 Oi, Eu sou o Raí I. Morato e estou graduando em Engenharia de Software pela UTFPR (Universidade Tecnologica Federal do Paraná).
-Nesse processo, aprendi os conceitos básicos da programação, banco de dados, segurança da informação e arquitetura de software... Tudo envolvendo os processos de produção de software, com realização de Sprints em equipe: Product Owner, Scrum Master e desenvolvedores, definidos em Kanban e metas OKRs, definidos em reuniões e documentações dos requisitos e prototipos.
 
-Fora de sala de ensino, pratiquei alguns projetos de extensão e monitoria para ensino... como na organização do Hackaton Hackabee 5.0, organizado pela UTFPR, mini oficina de capacitação informática básica 3° idade, monitoria particular na máteria POO (Programação Orientada a Objetos) e acompanhamento de aluno PcD dentro da instituição. 
+
+Fora de sala de ensino, pratiquei alguns projetos de extensão e monitoria para ensino... como na organização do Hackaton Hackabee 5.0, organizado pela UTFPR, oficina de capacitação informática básica 3° idade e monitoria particular na máteria POO (Programação Orientada a Objetos). 
 
 No tempo livre de estudos, gosto de distrações práticas do dia a dia, coisas como correr, horas aleatorias de podcasts enquanto sigo receitas de novas refeições na cozinha ou filmes interessantes sobre temas entusiasmados e de lógica fora do comum, como nos de ficção, ciência ou ação. 
 
