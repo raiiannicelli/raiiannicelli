@@ -52,9 +52,10 @@ Olá! Eu sou o Raí...!
 
 ### NoCode IA
 
-![veo3](https://img.shields.io/badge/veo3-ready-to-use-blue?style=for-the-badge&logo=veo3&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-AI-voice-purple?style=for-the-badge&logo=ElevenLabs&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-automation-agent-orange?style=for-the-badge&logo=n8n&logoColor=white)
+![Veo3](https://img.shields.io/badge/Veo3-0052CC?style=for-the-badge&logo=veo3&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-8A2BE2?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE8A00?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ##
 ###  Sobre Mim
