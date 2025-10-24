@@ -30,8 +30,7 @@ Olá! Eu sou o Raí...!
 
 ### Ferramentas de IA em desenvolvimento
 - NoCode automação: N8N;
-- NoCode imagem: veo3;
-- NoCode Video: Sora2;
+- NoCode imagem: Veo3;
 - NoCode Avatar+Voz: ElevenLabs;
 
 ##
