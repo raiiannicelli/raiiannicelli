@@ -50,7 +50,7 @@ Olá! Eu sou o Raí...!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### NoCode IA
+### NoCode IA - em desenvolvimento
 
 ![Veo3](https://img.shields.io/badge/Veo3-0052CC?style=for-the-badge&logo=veo3&logoColor=white)
 ![Nano Banana](https://img.shields.io/badge/Nano-Banana-yellow?style=for-the-badge)
