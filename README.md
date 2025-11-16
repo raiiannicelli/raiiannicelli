@@ -16,7 +16,8 @@ Olá! Eu sou o Raí...!
 ##
 ###  Backend
 
-  Sou um desenvolvedor de softwares! Focado em **Backend**, apaixonado por boas práticas, microsserviços e soluções escaláveis!!! Isso envolve o **modelos de serviço** (SaaS, PaaS...), **arquitetura de software** (Padrões de projeto, modulação, coesão e acoplamento), **controle de acesso** (principios CID, firewalls/WAF, certificado SSL web...), **linguagem de programação** (C e Java (Meu caso)) +  **framework**(Spring boot) + **banco de dados**(Relacional e não relacional) e o **gerênciador de pacotes** (pip, maven...) independentes. No final, completamente unidos! 
+  Sou um desenvolvedor de softwares! Focado em **Backend**, apaixonado por boas práticas, microsserviços e soluções escaláveis!!! Isso envolve o **modelos de serviço** (SaaS, PaaS...), **arquitetura de software** (Padrões de projeto, modulação, coesão e acoplamento), **controle de acesso** (principios CID, firewalls/WAF, certificado SSL web...) e um IDE para desenvolver (no meu caso) **linguagem de programação** (C e Java) +  **framework**(Spring boot) + **banco de dados**(postgre (MySql relacional)) e o **gerênciador de pacotes** (maven). 
+
   
   Nesse processo, aprendi e aprendo, os conceitos básicos da programação, banco de dados, segurança da informação e arquitetura de software... Além do DevOps para boa condução do projeto e deploy do pipeline com eficiência e, sem erros de fallback ou organização das pastas e falhas de acoplamento. Tudo envolvendo os processos de produção do software, com realização de Sprints em equipe: Product Owner, Scrum Master e desenvolvedores, definidos em Kanban e metas OKRs, definidos em reuniões e documentações dos requisitos e prototipos.
   
@@ -25,12 +26,12 @@ Olá! Eu sou o Raí...!
 ### Ferramentas ambiente 
 -  Linguagem: Java;
 -  Framework: Spring boot;
--  Banco de dados: postgreSql (MySql relacional);
+-  Banco de dados: postgreSql;
 -  Ambiente: docker + maven + github;
 
 ### Ferramentas de IA em desenvolvimento
 - NoCode automação: N8N;
-- NoCode imagem+video: Veo3;
+- NoCode imagem+video: Nano Banana+VEO3;
 - NoCode avatar+voz: ElevenLabs;
 
 ##
@@ -52,6 +53,7 @@ Olá! Eu sou o Raí...!
 ### NoCode IA
 
 ![Veo3](https://img.shields.io/badge/Veo3-0052CC?style=for-the-badge&logo=veo3&logoColor=white)
+![NanoBanana](https://img.shields.io/badge/NanoBananastyle=for-the-badge&logo=NanoBanana&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-8A2BE2?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FE8A00?style=for-the-badge&logo=n8n&logoColor=white)
 
