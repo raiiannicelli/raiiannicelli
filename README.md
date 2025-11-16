@@ -53,7 +53,7 @@ Olá! Eu sou o Raí...!
 ### NoCode IA
 
 ![Veo3](https://img.shields.io/badge/Veo3-0052CC?style=for-the-badge&logo=veo3&logoColor=white)
-![NanoBanana](https://img.shields.io/badge/NanoBananastyle=for-the-badge&logo=NanoBanana&logoColor=white)
+![Nano Banana](https://img.shields.io/badge/Nano-Banana-yellow?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-8A2BE2?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FE8A00?style=for-the-badge&logo=n8n&logoColor=white)
 
