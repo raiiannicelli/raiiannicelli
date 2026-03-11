@@ -29,11 +29,6 @@ Olá! Eu sou o Raí...!
 -  Banco de dados: postgreSql;
 -  Ambiente: docker + maven + github;
 
-### Ferramentas de IA em desenvolvimento
-- NoCode automação: N8N;
-- NoCode imagem+video: Nano Banana+VEO3;
-- NoCode avatar+voz: ElevenLabs;
-
 ##
 ### BackEnd
 
@@ -49,13 +44,6 @@ Olá! Eu sou o Raí...!
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### NoCode IA - em desenvolvimento
-
-![Veo3](https://img.shields.io/badge/Veo3-0052CC?style=for-the-badge&logo=veo3&logoColor=white)
-![Nano Banana](https://img.shields.io/badge/Nano-Banana-yellow?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-8A2BE2?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FE8A00?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 ##
